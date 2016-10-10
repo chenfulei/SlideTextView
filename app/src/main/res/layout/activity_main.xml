@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.demo.view.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="this is testfsfsdnmfo dsmfodsmfosd sdf,odsmf 发你送电脑辐射的的方式魔法商店街覅都是发士大夫是发大水广泛士大夫但是 发大水方面山东 发大水发射点发生发大水发射点陌陌麻烦大师"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textColor="@android:color/holo_red_dark"
+        android:focusable="false"
+        android:focusableInTouchMode="true"
+        android:textSize="30sp"/>
+
+    <com.demo.view.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="this is testfsfsdnmfo dsmfodsmfosd sdf,odsmf 发你送电脑辐射的的方式魔法商店街覅都是发士大夫是发大水广泛士大夫但是 发大水方面山东 发大水发射点发生发大水发射点陌陌麻烦大师"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textColor="@android:color/holo_red_dark"
+        android:focusable="false"
+        android:focusableInTouchMode="true"
+        android:textSize="30sp"/>
+
+
+</LinearLayout>
